@@ -43,6 +43,7 @@ DAY_OF_WEEK_NAMES = dict()
 for (k, v) in DAY_OF_WEEK_DATA.items():
     DAY_OF_WEEK_NAMES[v] = k.capitalize()
 
+# ROW_DISPLAY_LIMIT is the number of rows when displaying the preview of raw data.
 ROW_DISPLAY_LIMIT = 5
 
 def get_filters():
