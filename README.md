@@ -18,14 +18,14 @@ bikeshare.py
 README.md
 
 ### Credits
-https://jamesrledoux.com/code/group-by-aggregate-pandas
-https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.reset_index.html
-https://stackoverflow.com/questions/7571635/fastest-way-to-check-if-a-value-exists-in-a-list
-https://stackoverflow.com/questions/10373660/converting-a-pandas-groupby-output-from-series-to-dataframe
-https://docs.python.org/3/library/index.html
-https://docs.python.org/3/reference/index.html
-https://pandas.pydata.org/pandas-docs/stable/reference/frame.html
-https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.mode.html#pandas.DataFrame.mode
-https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.dt.dayofweek.html
-https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.to_datetime.html
+- https://jamesrledoux.com/code/group-by-aggregate-pandas
+- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.reset_index.html
+- https://stackoverflow.com/questions/7571635/fastest-way-to-check-if-a-value-exists-in-a-list
+- https://stackoverflow.com/questions/10373660/converting-a-pandas-groupby-output-from-series-to-dataframe
+- https://docs.python.org/3/library/index.html
+- https://docs.python.org/3/reference/index.html
+- https://pandas.pydata.org/pandas-docs/stable/reference/frame.html
+- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.mode.html#pandas.DataFrame.mode
+- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.dt.dayofweek.html
+- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.to_datetime.html
 
