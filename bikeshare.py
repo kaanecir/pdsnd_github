@@ -38,6 +38,7 @@ MONTH_NAMES = dict()
 for (k, v) in MONTH_DATA.items():
     MONTH_NAMES[v] = k.capitalize()
 
+# DAY_OF_WEEK_NAMES dictionary is defined by using values as keys and keys as values of DAY_OF_WEEK_DATA dictionary, to get weekday name by its number.
 DAY_OF_WEEK_NAMES = dict()
 for (k, v) in DAY_OF_WEEK_DATA.items():
     DAY_OF_WEEK_NAMES[v] = k.capitalize()
