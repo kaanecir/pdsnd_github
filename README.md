@@ -14,8 +14,8 @@ new_york_city.csv
 washington.csv
 
 ### Files used
-bikeshare.py
-README.md
+- bikeshare.py
+- README.md
 
 ### Credits
 - https://jamesrledoux.com/code/group-by-aggregate-pandas
