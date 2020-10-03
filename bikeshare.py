@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import datetime as dt
 
-
+# CITY_DATA dictionary is defined to get data file name by city name within the code.
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
