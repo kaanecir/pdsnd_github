@@ -23,6 +23,7 @@ MONTH_DATA = {  'all': 'all',
                 'november': 11,
                 'december': 12 }
 
+# DAY_OF_WEEK_DATA dictionary is defined to get weekday number by weekday name within the code.
 DAY_OF_WEEK_DATA = { 'all': 'all',
                 'monday': 0,
                 'tuesday': 1,
