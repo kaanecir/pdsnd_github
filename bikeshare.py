@@ -8,6 +8,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
 
+# MONTH_DATA dictionary is defined to get month number by month name within the code.
 MONTH_DATA = {  'all': 'all',
                 'january': 1,
                 'february': 2,
