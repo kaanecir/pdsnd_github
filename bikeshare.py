@@ -33,6 +33,7 @@ DAY_OF_WEEK_DATA = { 'all': 'all',
                 'saturday': 5,
                 'sunday': 6 }
 
+# MONTH_NAMES dictionary is defined by using values as keys and keys as values of MONTH_DATA dictionary, to get month name by its number.
 MONTH_NAMES = dict()
 for (k, v) in MONTH_DATA.items():
     MONTH_NAMES[v] = k.capitalize()
